@@ -1,2 +1,2 @@
 # privateFiles
-cubeIDE自动补全
+cubeIDE 1.14.0 自动补全
